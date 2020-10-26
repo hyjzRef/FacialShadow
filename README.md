@@ -1,2 +1,2 @@
 # FacialShadow
-An implementation of adjusting facial normals using thresholds Need Unity2019.3 above.
+An implementation of adjusting facial normals using thresholds need Unity2019.3 above.
